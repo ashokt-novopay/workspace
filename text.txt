@@ -1,2 +1,3 @@
-Test file for Git 
-Changes done in the feature branch for the file created in the master
+Test file for Git
+delete in feature branch 
+changes done in feature branch
